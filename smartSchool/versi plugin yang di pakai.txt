@@ -1,0 +1,4 @@
+php 7.4
+bootsrap 5
+fontawesom 5 
+jquery 3.6

@@ -1,0 +1,107 @@
+/* @font-face {
+  font-family: "Nunito";
+  src: url("../font/static/Nunito-SemiBold.ttf");
+  src: url("../font/static/Nunito-SemiBold.ttf") format("ttf");
+  src: url("../font/static/Nunito-SemiBold.ttf") format("truetype");
+} */
+
+* {
+  font-family: "Nunito", sans-serif;
+}
+
+.logo {
+  font-weight: bold;
+}
+.tinggi {
+  height: 555px;
+}
+
+.carousel-item div {
+  margin-top: 10px;
+  margin-left: -133px;
+  /* width: 1000px; */
+}
+.carousel-item div button {
+  text-align: center;
+  /* padding: 500px 10px auto; */
+}
+.ukuran-icon {
+  font-size: 70px;
+}
+
+.col:nth-child(1) .card .card-body .fas {
+  color: #969cff;
+}
+.col:nth-child(2) .card .card-body .fas {
+  color: #25e425;
+}
+.col:nth-child(3) .card .card-body .fas {
+  color: red;
+}
+
+.page-tiga {
+  background-color: rgb(74, 131, 255);
+}
+
+.page-tiga .row {
+  width: 100%;
+  margin-left: -25px;
+
+  height: 100%;
+}
+.page-tiga .row .col:last-child h5 {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.page-tiga .row .col:first-child img {
+  height: 400px;
+}
+.page-tiga .row .col:last-child p {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+.page-tiga .row .col:last-child button {
+  background-color: white;
+  color: rgb(74, 131, 255);
+  font-weight: bold;
+}
+.container-fluid:nth-child(6) {
+  background-color: #f0f0f0;
+}
+.col-8 div {
+  margin-top: 50px;
+  height: 40%;
+}
+
+.container-fluid:nth-child(7) .row .col {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  align-items: center;
+}
+
+.container-fluid:nth-child(7) center:last-child button {
+  background-color: rgb(74, 131, 255);
+  color: white;
+}
+
+.container-fluid:nth-child(8) {
+  background-color: rgb(74, 131, 255);
+}
+.container-fluid:nth-child(8) button {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+.container-fluid:nth-child(8) button i {
+  color: rgb(74, 131, 255);
+  font-size: 23px;
+}
+.container-fluid:nth-child(9) {
+  background-color: rgb(28, 28, 28);
+  color: white;
+}
+
+.row-cols-4 .col:last-child a {
+  color: rgb(74, 131, 255);
+}

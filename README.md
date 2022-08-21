@@ -1,0 +1,2 @@
+# ssmartSchool
+# smartSchool
