@@ -1,2 +1,2 @@
-# ssmartSchool
+
 # smartSchool
